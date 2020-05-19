@@ -3,9 +3,9 @@ require "language/node"
 class GraphqlPlaygroundServer < Formula
     desc "Standalone GraphQL Playground server"
     homepage "https://github.com/Batterii/graphql-playground-server"
-    url "https://registry.npmjs.org/graphql-playground-server/-/graphql-playground-server-0.1.4.tgz"
-    version "0.1.4"
-    sha256 "3cd8c476f55febf540c4f236dda2ac852cc3478385d8dd578e600ce6882e31e6"
+    url "https://registry.npmjs.org/graphql-playground-server/-/graphql-playground-server-0.1.6.tgz"
+    version "0.1.6"
+    sha256 "b6b51645612153908a9d8e890331698a74e7b68254481aa7240aab0ffe1ec989"
 
     depends_on "node"
 
